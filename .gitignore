@@ -1,5 +1,0 @@
-.gdbinit.tmpl-riscv
-kernel
-kernel-asm
-.idea
-build
